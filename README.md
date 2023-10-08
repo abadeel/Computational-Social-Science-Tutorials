@@ -10,4 +10,4 @@ Many social science dataset contain data on events of interest that are marked a
 
 This tutorial uses Python\'s **Geopy** library for geocoding\. It has functions that convert addresses or location names into geographic coordinates \(latitude and longitude\)\.
 
-**[Full tutorial is advisable here\.](https://github.com/abadeel/Computational-Social-Science-Tutorials/tree/main/Place%20Names%20to%20Geo-Coordinates)**
+**[Full tutorial is available here\.](https://github.com/abadeel/Computational-Social-Science-Tutorials/tree/main/Place%20Names%20to%20Geo-Coordinates)**
